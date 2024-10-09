@@ -1,0 +1,166 @@
+WORKSHOP ON EDA ( Dt : 2nd-Apr-23)
+****************************************
+-- Does my voice is clear to all.
+-- I do see lot of raised hand dont worry i will answer your question at last of the session.
+-- Each & every step i will mention in the notebood 
+-- Non technical & technical student can understand everything,
+-- I would learner to we can have Question and answer session at the end
+-- EDA is very important for Data analyst, data scientist 
+-- clean data to build predctive model 
+-- this is not theory, hands on practicle
+-- explain theory then we will go practicle 
+-- 1:30 hr - 2hr
+-- INTRODUCTION -->
+	PRAKASH SENAPATI
+	15+ yr as lead, data architect, developer, cloude, etc
+	get placed walmart. 
+	MICROSOFT CERTFIED
+-- stay with me till last min 
+-- i will addres your question at last . 
+++++++++++++++++++++++++++
+this session is youtube live
+-- you can find in the youtube 
+-- visualize the data , also we can mathmaetic & staticcal understand of the data
+-- excel the data visuazion explanation is limited 
+-- excel read only 1048576 records 
+-- organization we have db ( wipro, acce, tcs , verizon, dell )
+-- data till 10l ( terabytes of the data available) organization db
+-- we must need to code any programmin langaue 
+-- python top most rules in the world 
+-- tableau 
+-- some of employee dataset
+-- excel sheet = dataset ( datasceicne ) 
+-- raw data -- uncleaned data ( lot of values are missing, filled with lot of noise character)
+-- when ever you work any organziation you can find lot of data set whihc is raw 
+-- data -- image, video, speech, text, number 
+-- from raw data to clean data we use  python (jupyter)
+-- we will use very import libray called PANDAS 
+-- Next step we are doing as how to make uncleaned data cleaned data using help of packaged 
+like ----> PANDA, NUMPY 
+-- panda is the libar or package whihc we used for dataframe 
+-- inbuild function & userdefi
+-- data cleaning taks very very import role
+-- column name == attribuetes == variable 
+-- 
+-- we have dataset in machine
+-- we called the dataset in python program using help of PANDAS df
+-- read the dataste
+-- how to get dataset len, columns, info
+-- how to read each & every indivial attribute we also discussed 
+-- regex ( ,^%#)
+build the model is not tought
+data cleansing is tought
+-- ds project take 1yr 
+-- data cleanding it will take 4-6mont 
+
+dataset contain numerical data & categorical data 
+-- missing value treatmentt
+technique behing missing value treatement
+-- KNN(k-nearest neighbou)
+-- if the data is numeric then we replace with mean, median, mode strategy
+-- if the data is category then we repalce with mode stragety or knn method 
+
+-- NUMPY ( pkg to take care of multidimension arrary)
+-- PANDA (pkg or libary take care of dataframe)
+-- DATA ANLAYST LIBRARY --> 
+NUMPY & PANDA (DATA CLEANING)
+- if i give th 3 recored ( math )
+- if i 3cr recrods (highly impossible)
+-- missing value treatment done for numerical data 
+
+-- i said i will answe your question at last 
+-- in this session base real time 
+-- till now we are working on how to convert practicel raw data to clean data 
+
+Name - category 
+Domain - category
+AGE - number
+Location- Category
+salary - number
+exper - number
+
+bydefual python give you object
+try to convert object to cat & int
+
+-- we have raw data ( unclean, filled with lot of noise chara(!#^) -- regex, replace. extrac
+-- raw data we have lot of missing value and we fill the missing value with the help of .fillna
+-- numeric (mean) || category ( mode)
+-- change inbuild datatype to respecti data type 
+-- next step i will create an excel sheet for clean data
+-- so fare we generate raw data to clean data 
+-- my dataset is cleaned now 
+-- once the data set is clean lets visualize then 
+-- m- 25, t- 30, w - 35 , thur , fride ( predictive model )
+--variable identificaiton  (excel sheet == data set)
+-- dataset we have columns name = variable, attribute, feature)
+-- can be categorize into 2 part 
+INDEPENT VARIBELE  = NON TARGET VARIABLE 
+DEPENDENT VARIABLE == TARGET VARIABLE 
+
+machine learning algorithm born from variable identification 
+
+i.v & d.va
+regression -- if dv is contriuse || classificoant -- if d.v is binary 
+
+regression algorithm vs classification algorithm
+machine leanring use case and algorithmn born from EDA (VARIABEL IDENTIFICATION)
+
+visualization --> 
+
+MATPLOTLIB 
+SEABORN 
+
+NUMPY || PANDA || MATPLOTLIB || SEABORN
+
+NUMPY - multidimension array
+PANDAS - dataframe
+MATPLOTLIB - visualization
+SEABORN -- Advanced visualization
+
+word docuement whenever redline you will ritht click -- ignore 
+ 
+ uni-1 || bi-2 | tri-3 || 
+ UNIVARIATE ANALYSIS -- visualzie the data using 1 variable is called univariat 
+ BIVARIATE ANALY -- visualzie the data using 2 variable is called bivariate 
+
+univariaat -- uni + varaibel || bivarai== bi + variable 
+
+distribution plot 
+
+OUTLIER DETECTION -->
+how to detect outlier --> by visualization techniq ( distplot  lm plot)
+--can we visualize more then 2 variable --> heatmap 
+
+variable transformation 
+varaibel creation 
+
+--- raw data -- clean data
+- visualiet the clean data 
+-- what is relavant attribte & irelave attribte
+-- student pass the exam ( student heith & weightn doeesnot 
+- before we build machine learning model 
+-- machine is not understand 
+-- split the dataset into d.v & i.v 
+==== big bigt thank you for the learner who can join todays workshop===
+
+reach out the nareshit admin.
+
+you can ask what ever the question you have. 
+=====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
